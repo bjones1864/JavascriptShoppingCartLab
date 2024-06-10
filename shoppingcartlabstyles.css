@@ -5,3 +5,7 @@
 .row {
     padding-top: 32px;
 }
+
+#bottom-row {
+    margin-bottom: 32px;
+}
